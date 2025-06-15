@@ -1,0 +1,120 @@
+.nav-logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    color: #2E2F42;
+    text-decoration: none;
+}
+.nav-logo span{
+ color: #4D5AE5;
+}
+
+.nav-item{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.adres{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+    text-decoration: none;
+}
+
+.hero-baner-text{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    color: #fff;
+}
+.HERO-BUTON{
+background-color: #4D5AE5;
+font-weight: 500;
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 4%;
+color: #fff;
+}
+.hero-baner{
+    background-color: #2E2F42;
+}
+
+.h3-text{
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+.p-text{
+   font-weight: 400;
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 2%;
+color: #434455;
+}
+
+.our-team{
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+letter-spacing: 2%;
+color: #2E2F42;
+font-family: "Roboto", sans-serif;
+
+}
+
+.our-text{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color:#2E2F42 ;
+}
+.our-p{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+
+}
+.foter{
+  background-color: #2E2F42;
+}
+.logo-foter{
+font-weight: 700;
+font-family: "Raleway", sans-serif;
+font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    color:#fff;
+    text-decoration: none;
+}
+.logo-foter span{
+color: #4D5AE5;
+}
+.foter-p{
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #fff;
+}
