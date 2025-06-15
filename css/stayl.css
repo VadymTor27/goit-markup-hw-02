@@ -53,6 +53,7 @@ color: #404bbf;
     line-height: 60px;
     letter-spacing: 2%;
     color: #fff;
+    text-align: center;
 }
 .adres :hover{
     color: #404bbf;
@@ -90,7 +91,7 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #2E2F42;
     line-height: 1.07;
-    text-align: center;
+    
 }
 
 .p-text {
