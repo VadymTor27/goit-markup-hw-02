@@ -132,12 +132,24 @@ color: #404bbf;
 
 }
 
+.port{
+    font-weight: 700;
+    font-size: 36px;
+   
+    color: #2E2F42;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+
+}
 
 .port-p{
     font-weight: 400;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 24px;
+    font-size: 36px;
 
 }
 .port-h3{
