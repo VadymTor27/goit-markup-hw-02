@@ -132,6 +132,21 @@ color: #404bbf;
 
 }
 
+
+.port-p{
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+.port-h3{
+    width: 500;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    line-height: 24px;
+
+}
 .foter {
     background-color: #2E2F42;
 }
@@ -146,6 +161,7 @@ color: #404bbf;
     text-decoration: none;
     text-transform: uppercase;
 }
+
 
 .logo-foter span {
     color: #4D5AE5;
