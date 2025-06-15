@@ -29,13 +29,15 @@ body {
     text-decoration: none;
 }
 
-.nav-item :hover{
+.nav-item :hover {
     color: #404bbf;
 
 }
-.nav-item :focus{
-color: #404bbf;
+
+.nav-item :focus {
+    color: #404bbf;
 }
+
 .adres {
     font-weight: 400;
     font-size: 16px;
@@ -43,7 +45,8 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #434455;
     text-decoration: none;
-    font-style: normal;
+
+
 }
 
 .hero-baner-text {
@@ -55,10 +58,13 @@ color: #404bbf;
     color: #fff;
     text-align: center;
 }
-.adres :hover{
+
+.adres :hover {
     color: #404bbf;
+   
 }
-.adres :focus{
+
+.adres {
     color: #404bbf;
 }
 
@@ -73,13 +79,14 @@ color: #404bbf;
     cursor: pointer;
 }
 
-.hero-buton:hover{
+.hero-buton:hover {
     background-color: #404BBF;
 }
 
-.hero-buton :focus{
+.hero-buton :focus {
     background-color: #404BBF;
 }
+
 .hero-baner {
     background-color: #2E2F42;
 }
@@ -91,7 +98,7 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #2E2F42;
     line-height: 1.07;
-    
+
 }
 
 .p-text {
@@ -132,10 +139,10 @@ color: #404bbf;
 
 }
 
-.port{
+.port {
     font-weight: 700;
     font-size: 36px;
-   
+
     color: #2E2F42;
     line-height: 1.11;
     text-align: center;
@@ -144,7 +151,7 @@ color: #404bbf;
 
 }
 
-.port-p{
+.port-p {
     font-weight: 400;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -152,13 +159,15 @@ color: #404bbf;
     font-size: 36px;
 
 }
-.port-h3{
+
+.port-h3 {
     width: 500;
     font-size: 20px;
     font-family: "Roboto", sans-serif;
     line-height: 24px;
 
 }
+
 .foter {
     background-color: #2E2F42;
 }
