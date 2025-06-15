@@ -24,18 +24,26 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2E2F42;
     text-decoration: none;
 }
 
+.nav-item :hover{
+    color: #404bbf;
+
+}
+.nav-item :focus{
+color: #404bbf;
+}
 .adres {
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #434455;
     text-decoration: none;
+    font-style: normal;
 }
 
 .hero-baner-text {
@@ -46,17 +54,31 @@ body {
     letter-spacing: 2%;
     color: #fff;
 }
+.adres :hover{
+    color: #404bbf;
+}
+.adres :focus{
+    color: #404bbf;
+}
 
-.HERO-BUTON {
+.hero-buton {
     background-color: #4D5AE5;
     font-weight: 500;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 4%;
     color: #fff;
+    letter-spacing: 0.04em;
+    cursor: pointer;
 }
 
+.hero-buton:hover{
+    background-color: #404BBF;
+}
+
+.hero-buton :focus{
+    background-color: #404BBF;
+}
 .hero-baner {
     background-color: #2E2F42;
 }
@@ -65,9 +87,10 @@ body {
     font-weight: 500;
     font-family: "Roboto", sans-serif;
     font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2E2F42;
+    line-height: 1.07;
+    text-align: center;
 }
 
 .p-text {
