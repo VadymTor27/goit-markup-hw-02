@@ -44,6 +44,13 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 
 }
+.nav-link:hover{
+    color: #404bbf;
+}
+
+.nav-link:active{
+     border-bottom: 2px solid #404bbf;
+}
 
 .contacts a{
     
@@ -54,6 +61,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:  #434455;
 
+}
+.contacts a:hover{
+    color: #404bbf ;
 }
 
 /* navigetion end */
@@ -84,6 +94,10 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 background-color:#4D5AE5;
 
+}
+.hero-button:hover{
+   background-color: #404bbf;
+   cursor: pointer;
 }
 
 /* hero end */
