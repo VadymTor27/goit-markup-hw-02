@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
+  color: #434455;
 }
 ul,
 li {
@@ -15,9 +16,7 @@ h3,
 h2 {
   color: #2e2f42;
 }
-p {
-  color: #434455;
-}
+
 /* navigetion start */
 .nav-logo {
   font-family: "Raleway", sans-serif;
@@ -40,7 +39,8 @@ p {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.nav-link:hover {
+.nav-link:hover,
+.nav-link:focus {
   color: #404bbf;
 }
 
@@ -56,7 +56,8 @@ p {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts a:hover {
+.contacts a:hover,
+.contacts a:focus {
   color: #404bbf;
 }
 
@@ -77,17 +78,18 @@ p {
 }
 .hero-button {
   color: white;
-  background-color:;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
-}
-.hero-button:hover {
-  background-color: #404bbf;
   cursor: pointer;
+}
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
 }
 
 /* hero end */
