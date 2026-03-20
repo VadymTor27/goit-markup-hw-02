@@ -18,7 +18,10 @@ h2 {
 }
 
 /* navigetion start */
-.nav-logo {
+.header-nav{
+
+}
+.logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
@@ -29,26 +32,39 @@ h2 {
   color: #4d5ae5;
 }
 
-.nav-logo-span {
+.header-logo-accent {
   color: #2e2f42;
 }
-.nav-link {
+.header-nav-list{
+
+}
+.header-nav-item{
+
+}
+.header-nav-link {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.nav-link:hover,
-.nav-link:focus {
+.header-nav-link:hover,
+.header-nav-link:focus {
   color: #404bbf;
 }
 
-.nav-link:active {
+.header-nav-link:active {
   border-bottom: 2px solid #404bbf;
 }
 
-.contacts a {
+
+.header-contacts {
+}
+.header-contacts-list {
+}
+.header-contacts-item {
+}
+.header-contacts-link {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -56,8 +72,9 @@ h2 {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts a:hover,
-.contacts a:focus {
+
+.header-contacts-link:hover,
+.header-contacts-link:focus {
   color: #404bbf;
 }
 
@@ -71,7 +88,7 @@ h2 {
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.07143;
+  line-height: 1.08;
   letter-spacing: 0.02em;
   color: white;
   text-align: center;
@@ -95,6 +112,9 @@ h2 {
 /* hero end */
 /* features start */
 
+.features-heading{
+  
+}
 .features-list {
 }
 .features-item {
@@ -123,18 +143,18 @@ h2 {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.11111;
+  line-height: 1.10;
   letter-spacing: 0.02em;
   text-align: center;
 }
 .team-list {
 }
-.team-list-item {
+.team-card {
   background-color: #fff;
 }
 .team-img {
 }
-.team-list-item-name {
+.team-name {
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -142,7 +162,7 @@ h2 {
   letter-spacing: 0.02em;
   text-align: center;
 }
-.team-list-item-name-position {
+.team-role {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -161,24 +181,24 @@ h2 {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.11111;
+  line-height: 1.12;
   letter-spacing: 0.02em;
   text-align: center;
 }
 .portfolio-list {
 }
-.portfolio-list-item {
+.portfolio-card {
 }
 .portfolio-img {
 }
-.portfolio-list-item-name {
+.portfolio-name {
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.portfolio-list-item-name-text {
+.portfolio-category {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -193,7 +213,7 @@ h2 {
   background-color: #2e2f42;
 }
 
-.footer-logo-span {
+.footer-logo-accent {
   color: #f4f4fd;
 }
 
